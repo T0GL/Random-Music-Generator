@@ -1,8 +1,8 @@
 # Random-Music-Generator
 It generates random music from direction that you choose.
 
-As you can see it is so simple
-I wrote it and run with a .bat file
+As you can see it is so simple.
+I wrote it and run with a .bat file.
 I will give you the codes but you have to change them to use.
 IT IS MY FIRST AND ONLY PROGRAM.
 
